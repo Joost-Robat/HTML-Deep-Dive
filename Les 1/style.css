@@ -1,0 +1,15 @@
+html {
+  background-color: cyan;
+}
+h1 {
+  font-size: 100px;
+}
+div {
+  background-color: lightgrey;
+  padding: 10px;
+  margin: 5px;
+}
+section:hover {
+  background-color: black;
+  color: cyan;
+}
