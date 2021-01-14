@@ -1,15 +1,31 @@
 html {
   background-color: cyan;
+  margin: 10px;
+  padding: 10px;
 }
 h1 {
   font-size: 100px;
+  background-color: rgba(255, 139, 45, 1);
+  color: black;
+  padding: 10px;
 }
 div {
   background-color: lightgrey;
+  margin: 10px;
   padding: 10px;
-  margin: 5px;
 }
 section:hover {
-  background-color: black;
+  background-color: lime;
   color: cyan;
+}
+section {
+  margin: 10px;
+}
+article {
+  border: 3px solid black;
+  padding: 10px;
+  margin: 10px;
+}
+p{
+  border: solid black 300px;
 }

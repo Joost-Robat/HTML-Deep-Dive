@@ -1,0 +1,17 @@
+#fotoslider {
+  display: flex;
+  flex-direction: row;
+}
+.foto {
+  width: 270px;
+  height: 350px;
+  overflow: hidden;
+}
+img {
+  width: 100%;
+  height: auto;
+}
+body {
+  margin: 0px;
+  padding: 0px;
+}
